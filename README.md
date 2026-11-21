@@ -174,8 +174,10 @@ The same pattern works anywhere the steps are: read a request, look up a price, 
 I build practical AI automations for businesses that want to save time without losing control.
 
 **QueenEagleAI**
-Portfolio: https://queeneagleai-plum-iota.vercel.app
-Email Address: queenikwuji@gmail.com
+Portfolio: https://queeneagleai-plum-iota.vercel.app 
+
+Email Address: queenikwuji@gmail.com 
+
 LinkedIn: www.linkedin.com/in/queen-ikwuji-8b925524a
 
 If quote emails slow your team down, I would like to hear how you handle them today.
